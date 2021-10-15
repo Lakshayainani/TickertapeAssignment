@@ -1,2 +1,1 @@
 "# TickerTapeAggignment" 
-"# TickerTapeAggignment" 
