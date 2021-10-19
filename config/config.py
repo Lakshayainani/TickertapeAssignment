@@ -1,7 +1,7 @@
 amazonURL = "https://www.amazon.in"
 flipkartURL = "https://www.flipkart.com"
 
-product = "Samsung m31"
+product = "Samsung m32"
 
 #locator Types
 ID = "id"
