@@ -69,6 +69,6 @@ print(f"Amazon Price is {amznPrice}\nFlipkart Price is {flpkrtPrice}")
 if amznPrice < flpkrtPrice:
     print(f"AMAZON IS CHEAPER BY {flpkrtPrice-amznPrice}")
 elif amznPrice==flpkrtPrice:
-    print(f"BOTH DITES ARE SELLING AT SAME PRICE OF : {flpkrtPrice}")
+    print(f"BOTH SITES ARE SELLING AT SAME PRICE OF : {flpkrtPrice}")
 else:
     print(f"FLIPKART IS CHEAPER BY {amznPrice - flpkrtPrice}")
